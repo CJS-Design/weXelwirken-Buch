@@ -1,113 +1,112 @@
 \contentsline {chapter}{\numberline {1}Einleitung}{5}
-\contentsline {section}{\numberline {1.1}Kontakt}{5}
-\contentsline {subsection}{\numberline {1.1.1}Paderborn}{5}
-\contentsline {subsection}{\numberline {1.1.2}Wankheim}{5}
-\contentsline {subsection}{\numberline {1.1.3}Halle-Westfalen}{6}
-\contentsline {section}{\numberline {1.2}Warum dieses Buch?}{6}
-\contentsline {section}{\numberline {1.3}Zielgruppe}{6}
-\contentsline {section}{\numberline {1.4}Menschen}{6}
-\contentsline {section}{\numberline {1.5}Zusammenfassung}{7}
-\contentsline {chapter}{\numberline {2}Eine Art, die Dinge zu tun}{8}
-\contentsline {section}{\numberline {2.1}Ziele}{8}
-\contentsline {subsection}{\numberline {2.1.1}Starke Knoten}{8}
-\contentsline {subsubsection}{Selbstverantwortung}{8}
-\contentsline {subsubsection}{Selbsthilfe}{9}
-\contentsline {subsection}{\numberline {2.1.2}Starke Gemeinschaft}{9}
-\contentsline {subsubsection}{Gemeinsam Leben}{9}
-\contentsline {subsubsection}{Gemeinsam Wirtschaften}{9}
-\contentsline {section}{\numberline {2.2}weXelwirken Entwurfsmuster}{9}
-\contentsline {subsection}{\numberline {2.2.1}Grundlegende weXelwirken Muster}{10}
-\contentsline {subsubsection}{Starke Knoten}{10}
-\contentsline {subsubsection}{Fokus}{10}
-\contentsline {subsubsection}{Gemeinschaft}{10}
-\contentsline {subsubsection}{Teilen}{10}
-\contentsline {subsubsection}{Antimuster}{11}
-\contentsline {subsection}{\numberline {2.2.2}Weitere Entwurfsmuster}{11}
-\contentsline {subsubsection}{Kommunikation}{11}
-\contentsline {subsubsection}{Atmosph\IeC {\"a}re}{11}
-\contentsline {subsubsection}{Dienstag}{11}
-\contentsline {subsubsection}{Netzwerk}{11}
-\contentsline {subsubsection}{Vertrauen}{11}
-\contentsline {subsubsection}{Projekte}{12}
-\contentsline {subsubsection}{Selbst\IeC {\"a}ndige Arbeit}{12}
-\contentsline {subsubsection}{Freundeskreis}{12}
-\contentsline {subsubsection}{Gesellschaft}{12}
-\contentsline {subsection}{\numberline {2.2.3}Weiter Mustersets}{12}
-\contentsline {subsubsection}{Design Patters for Hackerspaces}{12}
-\contentsline {subsubsection}{A Pattern Language}{12}
-\contentsline {chapter}{\numberline {3}Projekte}{13}
-\contentsline {section}{\numberline {3.1}Netzwerk}{13}
-\contentsline {section}{\numberline {3.2}Wirtschaftliche Zusammenarbeit}{13}
-\contentsline {subsection}{\numberline {3.2.1}Genossenschaft}{13}
-\contentsline {section}{\numberline {3.3}CoWorking}{13}
-\contentsline {subsection}{\numberline {3.3.1}Paderborn}{13}
-\contentsline {subsection}{\numberline {3.3.2}Wankheim}{13}
-\contentsline {subsection}{\numberline {3.3.3}Halle Westfalen}{14}
-\contentsline {subsection}{\numberline {3.3.4}CoWorking Partner}{14}
-\contentsline {section}{\numberline {3.4}Radio weXelwirken}{14}
-\contentsline {section}{\numberline {3.5}Computercafe}{15}
-\contentsline {section}{\numberline {3.6}Elektrischer Kamin}{15}
-\contentsline {section}{\numberline {3.7}H\IeC {\"a}rten-Blog}{15}
-\contentsline {section}{\numberline {3.8}Unternehmen OWL}{15}
-\contentsline {section}{\numberline {3.9}KoKonsum}{15}
-\contentsline {chapter}{\numberline {4}Zukunft}{16}
-\contentsline {section}{\numberline {4.1}mittelfristige Zukunft}{16}
-\contentsline {subsection}{\numberline {4.1.1}Verbreitung, Au\IeC {\ss }enauftritt}{16}
-\contentsline {subsection}{\numberline {4.1.2}Rechtsform Verein}{18}
-\contentsline {subsection}{\numberline {4.1.3}Rechtsform Genossenschaft}{19}
-\contentsline {section}{\numberline {4.2}10 Jahres Vision}{22}
-\contentsline {chapter}{Anhang}{23}
-\contentsline {chapter}{\numberline {A}Begriffsdefinitionen}{23}
-\contentsline {section}{\numberline {A.1}CoWork(er/ing) vs. weXelwirk(er/en)}{23}
-\contentsline {chapter}{\numberline {B}Vorstellung des Dunstkreises}{24}
-\contentsline {section}{\numberline {B.1}Branko \IeC {\v C}anak}{24}
-\contentsline {section}{\numberline {B.2}Christopher Schmidhofer}{24}
-\contentsline {section}{\numberline {B.3}Dagmar Engels}{24}
-\contentsline {section}{\numberline {B.4}Elias Fl\IeC {\"u}gge}{24}
-\contentsline {section}{\numberline {B.5}Eugenia Allerdings}{25}
-\contentsline {section}{\numberline {B.6}Joachim Beyrowksi}{25}
-\contentsline {section}{\numberline {B.7}Vanessa Herrmann}{25}
-\contentsline {section}{\numberline {B.8}Daniel Schweigh\IeC {\"o}fer}{25}
-\contentsline {section}{\numberline {B.9}Viola Hellmuth}{25}
-\contentsline {section}{\numberline {B.10}Carsten Birkelbach}{25}
-\contentsline {section}{\numberline {B.11}Conrad Berh\IeC {\"o}rster}{25}
-\contentsline {section}{\numberline {B.12}Chantal Pannacci}{25}
-\contentsline {section}{\numberline {B.13}Christina Schneider}{26}
-\contentsline {section}{\numberline {B.14}Dejan Puric}{26}
-\contentsline {section}{\numberline {B.15}Gaby Dannecker}{26}
-\contentsline {section}{\numberline {B.16}Andreas Hell}{26}
-\contentsline {section}{\numberline {B.17}Elisabeth Jacob}{26}
-\contentsline {section}{\numberline {B.18}Martin A. Gails}{26}
-\contentsline {section}{\numberline {B.19}Oliver G. Hoffmann}{26}
-\contentsline {section}{\numberline {B.20}Johannes Lintner}{26}
-\contentsline {section}{\numberline {B.21}Jolanthe Osiejuk}{26}
-\contentsline {section}{\numberline {B.22}Johanna Tovar}{26}
-\contentsline {section}{\numberline {B.23}Katharina Rompf}{27}
-\contentsline {section}{\numberline {B.24}Diana K\IeC {\"o}ster-Kande}{27}
-\contentsline {section}{\numberline {B.25}Luca Hammer}{27}
-\contentsline {section}{\numberline {B.26}Michael Rinker}{27}
-\contentsline {section}{\numberline {B.27}Rafael Schniedermann}{27}
-\contentsline {section}{\numberline {B.28}Robert Rentz}{27}
-\contentsline {section}{\numberline {B.29}Ryan Mac Jones}{27}
-\contentsline {section}{\numberline {B.30}Sebastian Ohneseit}{27}
-\contentsline {section}{\numberline {B.31}Tim Schmidt}{27}
-\contentsline {section}{\numberline {B.32}Vanessa Herrmann}{27}
-\contentsline {section}{\numberline {B.33}Wolfgang Schreiber}{28}
-\contentsline {chapter}{\numberline {C}Entwicklungsgeschichte}{29}
-\contentsline {section}{\numberline {C.1}2012}{29}
-\contentsline {subsection}{\numberline {C.1.1}2. Workshop (Wankheim, 13-15.01.2012)}{29}
-\contentsline {subsection}{\numberline {C.1.2}Wankheim}{29}
-\contentsline {subsubsection}{Radio wexelwirken}{29}
-\contentsline {section}{\numberline {C.2}2011}{29}
-\contentsline {subsection}{\numberline {C.2.1}1. Workshop (Paderborn, 4.-6.11.2011)}{29}
-\contentsline {subsection}{\numberline {C.2.2}Vor den Workshops}{29}
-\contentsline {subsection}{\numberline {C.2.3}Klausur (Steyerberg, 4.-6.07.2011)}{31}
-\contentsline {subsection}{\numberline {C.2.4}Paderborn}{31}
-\contentsline {subsection}{\numberline {C.2.5}Wankheim}{31}
-\contentsline {section}{\numberline {C.3}2010}{32}
-\contentsline {subsection}{\numberline {C.3.1}Paderborn}{32}
-\contentsline {subsection}{\numberline {C.3.2}Wankheim}{32}
-\contentsline {section}{\numberline {C.4}2009}{32}
-\contentsline {chapter}{\numberline {D}Geschichten}{33}
-\contentsline {section}{\numberline {D.1}Christophers erstes Mal}{33}
-\contentsline {chapter}{\numberline {E}Rede zum einj\IeC {\"a}hrigen Jubil\IeC {\"a}um von weXelwirken Wankheim}{34}
+\contentsline {section}{\numberline {1.1}Warum dieses Buch?}{5}
+\contentsline {section}{\numberline {1.2}Zielgruppe}{5}
+\contentsline {section}{\numberline {1.3}weXelwirken in wenigen Minute}{6}
+\contentsline {chapter}{\numberline {2}Eine Art, die Dinge zu tun}{7}
+\contentsline {section}{\numberline {2.1}Ziele}{7}
+\contentsline {subsection}{\numberline {2.1.1}Starke Knoten}{7}
+\contentsline {subsubsection}{Selbstverantwortung}{7}
+\contentsline {subsubsection}{Selbsthilfe}{8}
+\contentsline {subsection}{\numberline {2.1.2}Starke Gemeinschaft}{8}
+\contentsline {subsubsection}{Gemeinsam Leben}{8}
+\contentsline {subsubsection}{Gemeinsam Wirtschaften}{8}
+\contentsline {section}{\numberline {2.2}weXelwirken Entwurfsmuster}{8}
+\contentsline {subsection}{\numberline {2.2.1}Grundlegende weXelwirken Muster}{9}
+\contentsline {subsubsection}{Starke Knoten}{9}
+\contentsline {subsubsection}{Fokus}{9}
+\contentsline {subsubsection}{Gemeinschaft}{9}
+\contentsline {subsubsection}{Teilen}{9}
+\contentsline {subsubsection}{Antimuster}{10}
+\contentsline {subsection}{\numberline {2.2.2}Weitere Entwurfsmuster}{10}
+\contentsline {subsubsection}{Kommunikation}{10}
+\contentsline {subsubsection}{Atmosph\IeC {\"a}re}{10}
+\contentsline {subsubsection}{Dienstag}{10}
+\contentsline {subsubsection}{Netzwerk}{10}
+\contentsline {subsubsection}{Vertrauen}{10}
+\contentsline {subsubsection}{Projekte}{11}
+\contentsline {subsubsection}{Selbst\IeC {\"a}ndige Arbeit}{11}
+\contentsline {subsubsection}{Freundeskreis}{11}
+\contentsline {subsubsection}{Gesellschaft}{11}
+\contentsline {subsection}{\numberline {2.2.3}Weiter Mustersets}{11}
+\contentsline {subsubsection}{Design Patters for Hackerspaces}{11}
+\contentsline {subsubsection}{A Pattern Language}{11}
+\contentsline {chapter}{\numberline {3}Projekte}{12}
+\contentsline {section}{\numberline {3.1}Netzwerk}{12}
+\contentsline {section}{\numberline {3.2}Wirtschaftliche Zusammenarbeit}{12}
+\contentsline {subsection}{\numberline {3.2.1}Genossenschaft}{12}
+\contentsline {section}{\numberline {3.3}CoWorking}{12}
+\contentsline {subsection}{\numberline {3.3.1}Paderborn}{12}
+\contentsline {subsection}{\numberline {3.3.2}Wankheim}{12}
+\contentsline {subsection}{\numberline {3.3.3}Halle Westfalen}{13}
+\contentsline {subsection}{\numberline {3.3.4}CoWorking Partner}{13}
+\contentsline {section}{\numberline {3.4}Radio weXelwirken}{13}
+\contentsline {section}{\numberline {3.5}Computercafe}{14}
+\contentsline {section}{\numberline {3.6}Elektrischer Kamin}{14}
+\contentsline {section}{\numberline {3.7}H\IeC {\"a}rten-Blog}{14}
+\contentsline {section}{\numberline {3.8}Unternehmen OWL}{14}
+\contentsline {section}{\numberline {3.9}KoKonsum}{14}
+\contentsline {chapter}{\numberline {4}Zukunft}{15}
+\contentsline {section}{\numberline {4.1}mittelfristige Zukunft}{15}
+\contentsline {subsection}{\numberline {4.1.1}Verbreitung, Au\IeC {\ss }enauftritt}{15}
+\contentsline {subsection}{\numberline {4.1.2}Rechtsform Verein}{17}
+\contentsline {subsection}{\numberline {4.1.3}Rechtsform Genossenschaft}{18}
+\contentsline {section}{\numberline {4.2}10 Jahres Vision}{21}
+\contentsline {chapter}{Anhang}{22}
+\contentsline {chapter}{\numberline {A}Begriffsdefinitionen}{22}
+\contentsline {chapter}{\numberline {B}Kontakt}{23}
+\contentsline {section}{\numberline {B.1}Paderborn}{23}
+\contentsline {section}{\numberline {B.2}Wankheim}{23}
+\contentsline {section}{\numberline {B.3}Halle-Westfalen}{24}
+\contentsline {section}{\numberline {B.4}CoWork(er/ing) vs. weXelwirk(er/en)}{24}
+\contentsline {chapter}{\numberline {C}Vorstellung des Dunstkreises}{25}
+\contentsline {section}{\numberline {C.1}Branko \IeC {\v C}anak}{25}
+\contentsline {section}{\numberline {C.2}Christopher Schmidhofer}{25}
+\contentsline {section}{\numberline {C.3}Dagmar Engels}{25}
+\contentsline {section}{\numberline {C.4}Elias Fl\IeC {\"u}gge}{25}
+\contentsline {section}{\numberline {C.5}Eugenia Allerdings}{26}
+\contentsline {section}{\numberline {C.6}Joachim Beyrowksi}{26}
+\contentsline {section}{\numberline {C.7}Vanessa Herrmann}{26}
+\contentsline {section}{\numberline {C.8}Daniel Schweigh\IeC {\"o}fer}{26}
+\contentsline {section}{\numberline {C.9}Viola Hellmuth}{26}
+\contentsline {section}{\numberline {C.10}Carsten Birkelbach}{26}
+\contentsline {section}{\numberline {C.11}Conrad Berh\IeC {\"o}rster}{26}
+\contentsline {section}{\numberline {C.12}Chantal Pannacci}{26}
+\contentsline {section}{\numberline {C.13}Christina Schneider}{27}
+\contentsline {section}{\numberline {C.14}Dejan Puric}{27}
+\contentsline {section}{\numberline {C.15}Gaby Dannecker}{27}
+\contentsline {section}{\numberline {C.16}Andreas Hell}{27}
+\contentsline {section}{\numberline {C.17}Elisabeth Jacob}{27}
+\contentsline {section}{\numberline {C.18}Martin A. Gails}{27}
+\contentsline {section}{\numberline {C.19}Oliver G. Hoffmann}{27}
+\contentsline {section}{\numberline {C.20}Johannes Lintner}{27}
+\contentsline {section}{\numberline {C.21}Jolanthe Osiejuk}{27}
+\contentsline {section}{\numberline {C.22}Johanna Tovar}{27}
+\contentsline {section}{\numberline {C.23}Katharina Rompf}{28}
+\contentsline {section}{\numberline {C.24}Diana K\IeC {\"o}ster-Kande}{28}
+\contentsline {section}{\numberline {C.25}Luca Hammer}{28}
+\contentsline {section}{\numberline {C.26}Michael Rinker}{28}
+\contentsline {section}{\numberline {C.27}Rafael Schniedermann}{28}
+\contentsline {section}{\numberline {C.28}Robert Rentz}{28}
+\contentsline {section}{\numberline {C.29}Ryan Mac Jones}{28}
+\contentsline {section}{\numberline {C.30}Sebastian Ohneseit}{28}
+\contentsline {section}{\numberline {C.31}Tim Schmidt}{28}
+\contentsline {section}{\numberline {C.32}Vanessa Herrmann}{28}
+\contentsline {section}{\numberline {C.33}Wolfgang Schreiber}{29}
+\contentsline {chapter}{\numberline {D}Entwicklungsgeschichte}{30}
+\contentsline {section}{\numberline {D.1}2012}{30}
+\contentsline {subsection}{\numberline {D.1.1}2. Workshop (Wankheim, 13-15.01.2012)}{30}
+\contentsline {subsection}{\numberline {D.1.2}Wankheim}{30}
+\contentsline {subsubsection}{Radio wexelwirken}{30}
+\contentsline {section}{\numberline {D.2}2011}{30}
+\contentsline {subsection}{\numberline {D.2.1}1. Workshop (Paderborn, 4.-6.11.2011)}{30}
+\contentsline {subsection}{\numberline {D.2.2}Vor den Workshops}{30}
+\contentsline {subsection}{\numberline {D.2.3}Klausur (Steyerberg, 4.-6.07.2011)}{32}
+\contentsline {subsection}{\numberline {D.2.4}Paderborn}{32}
+\contentsline {subsection}{\numberline {D.2.5}Wankheim}{32}
+\contentsline {section}{\numberline {D.3}2010}{33}
+\contentsline {subsection}{\numberline {D.3.1}Paderborn}{33}
+\contentsline {subsection}{\numberline {D.3.2}Wankheim}{33}
+\contentsline {section}{\numberline {D.4}2009}{33}
+\contentsline {chapter}{\numberline {E}Geschichten}{34}
+\contentsline {section}{\numberline {E.1}Christophers erstes Mal}{34}
+\contentsline {chapter}{\numberline {F}Rede zum einj\IeC {\"a}hrigen Jubil\IeC {\"a}um von weXelwirken Wankheim}{35}
