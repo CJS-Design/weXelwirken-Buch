@@ -1,6 +1,6 @@
 \contentsline {chapter}{\numberline {1}Einleitung}{6}
 \contentsline {section}{\numberline {1.1}Warum dieses Buch?}{6}
-\contentsline {section}{\numberline {1.2}Zielgruppe}{6}
+\contentsline {section}{\numberline {1.2}Zielgruppe}{7}
 \contentsline {section}{\numberline {1.3}weXelwirken in wenigen Minuten}{7}
 \contentsline {chapter}{\numberline {2}Eine Art, die Dinge zu tun}{8}
 \contentsline {section}{\numberline {2.1}\leavevmode {\color {red}Ziele / Unsere Leidenschaft / Warum wir brennen / Unsere Begeisterung / Chaka}}{8}
