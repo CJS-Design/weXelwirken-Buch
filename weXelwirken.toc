@@ -4,7 +4,7 @@
 \contentsline {section}{\numberline {1.3}weXelwirken in wenigen Minuten}{7}
 \contentsline {chapter}{\numberline {2}Eine Art, die Dinge zu tun}{8}
 \contentsline {section}{\numberline {2.1}\leavevmode {\color {red}Ziele / Unsere Leidenschaft / Warum wir brennen / Unsere Begeisterung / Chaka}}{8}
-\contentsline {subsection}{\numberline {2.1.1}Starke Pers\IeC {\"o}nlichkeiten}{8}
+\contentsline {subsection}{\numberline {2.1.1}Starke Pers\IeC {\"o}nlichkeiten - wie definieren wir das?}{8}
 \contentsline {subsubsection}{Eigenverantwortung -Selbstverantwortung}{8}
 \contentsline {subsubsection}{Selbsthilfe}{9}
 \contentsline {subsection}{\numberline {2.1.2}Starke Gemeinschaft}{9}
@@ -15,13 +15,13 @@
 \contentsline {subsubsection}{Starke Knoten}{10}
 \contentsline {subsubsection}{Fokus}{10}
 \contentsline {subsubsection}{Gemeinschaft}{10}
-\contentsline {subsubsection}{Projekte}{10}
+\contentsline {subsubsection}{Projekte}{11}
 \contentsline {subsubsection}{Antimuster}{11}
 \contentsline {subsection}{\numberline {2.2.2}Weitere Entwurfsmuster}{11}
 \contentsline {subsubsection}{Teilen}{11}
 \contentsline {subsubsection}{Kommunikation}{11}
 \contentsline {subsubsection}{Atmosph\IeC {\"a}re}{11}
-\contentsline {subsubsection}{Dienstag}{11}
+\contentsline {subsubsection}{Dienstag}{12}
 \contentsline {subsubsection}{Netzwerk}{12}
 \contentsline {subsubsection}{Vertrauen}{12}
 \contentsline {subsubsection}{Selbst\IeC {\"a}ndige Arbeit}{12}
