@@ -15,14 +15,13 @@
 \contentsline {subsubsection}{Starke Knoten}{10}
 \contentsline {subsubsection}{Fokus}{10}
 \contentsline {subsubsection}{Gemeinschaft}{10}
-\contentsline {subsubsection}{Projekte}{10}
+\contentsline {subsubsection}{Projekte}{11}
 \contentsline {subsubsection}{Antimuster}{11}
 \contentsline {subsection}{\numberline {2.2.2}Weitere Entwurfsmuster}{11}
 \contentsline {subsubsection}{Teilen}{11}
 \contentsline {subsubsection}{Kommunikation}{11}
 \contentsline {subsubsection}{Atmosph\IeC {\"a}re}{11}
-\contentsline {subsubsection}{Dienstag}{11}
-\contentsline {subsubsection}{Netzwerk}{12}
+\contentsline {subsubsection}{Netzwerk}{11}
 \contentsline {subsubsection}{Vertrauen}{12}
 \contentsline {subsubsection}{Selbst\IeC {\"a}ndige Arbeit}{12}
 \contentsline {subsubsection}{Freundeskreis}{12}
